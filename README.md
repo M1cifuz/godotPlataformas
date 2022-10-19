@@ -1,2 +1,2 @@
-# gameSnake
-My first game on Python
+# godot plataformas
+My first game on Godot
